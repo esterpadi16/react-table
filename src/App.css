@@ -1,0 +1,39 @@
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  /* height: 30vmin; */
+  pointer-events: none;
+  text-align: left;
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.border{
+  border: 2px solid crimson;
+  margin: 10px;
+  max-width: 300px;
+  border-radius: 10px;
+}
+
+h2{
+  text-align: center;
+  height: 90px;
+}
+
+h3{
+  text-align: center;
+  color: crimson;
+}
+
+.row{
+  padding-left: 120px;
+}
+
